@@ -3,4 +3,4 @@ project(PhyCalculator)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PhyCalculator main.cpp Kinematics.cpp Kinematics.h)
+add_executable(PhyCalculator main.cpp Kinematics.cpp Kinematics.h Problems.cpp Problems.h)
